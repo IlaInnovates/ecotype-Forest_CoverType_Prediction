@@ -1,0 +1,1 @@
+This project is a user-friendly Streamlit app for forest cover classification. It lets users enter area attributes using simple input fields, then predicts and displays the cover type with clear, readable labels. Everything runs from a trained machine learning model, making fast and interactive predictions easy
